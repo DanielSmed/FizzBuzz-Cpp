@@ -1,0 +1,1 @@
+A simpel lttel skript to play the game of FizzBuzz. This idea is from the video https://www.youtube.com/watch?v=QPZ0pIK_wsc
